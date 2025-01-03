@@ -1,7 +1,7 @@
 (section-label)=
 # Home
 
-Katie Walker  
+**Katie Walker**  
 Data analyst with cross cultural communication skills and a passion for utilizing data for environmental and social issues
 
 ​Clark University  
